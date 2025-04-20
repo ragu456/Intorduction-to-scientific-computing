@@ -1,2 +1,2 @@
-# Intorduction to scientific computing
+# Introduction to scientific computing
  
